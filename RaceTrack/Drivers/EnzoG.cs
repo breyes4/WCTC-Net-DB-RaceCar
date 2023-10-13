@@ -12,7 +12,7 @@ namespace RaceTrack.RaceTrack.Drivers
         public EnzoG(RaceCar car) : base(car)
         {
             Name = "Enzo Giuseppe";
-            SkillLevel = 4;
+            SkillLevel = 8;
         }
 
         public override void Drive()
